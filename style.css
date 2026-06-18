@@ -1,0 +1,48 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f4f4f4;
+
+    text-align: center;
+
+    margin-top: 100px;
+}
+
+.container {
+
+    background: white;
+
+    width: 400px;
+
+    margin: auto;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow: 0px 0px 10px gray;
+}
+
+input {
+
+    padding: 10px;
+
+    margin: 5px;
+
+    width: 250px;
+}
+
+button {
+
+    padding: 10px 15px;
+
+    margin: 5px;
+
+    cursor: pointer;
+}
+
+h2 {
+
+    color: green;
+}
